@@ -1,0 +1,281 @@
+
+Architectural Digest
+--------------------
+West Elm               2965
+Maiden Home            2619
+Anthropologie          2355
+Serena & Lily          2121
+Lulu and Georgia       1908
+Burrow                 1710
+Wayfair                1511
+Castlery               1332
+Etsy                   1160
+Amazon                 988
+MoMA Design Store      820
+Pottery Barn           660
+Target                 500
+CB2                    341
+Arhaus                 184
+Article                29
+IKEA                   -123
+Goodee                 -274
+Zinus                  -425
+AllModern              -575
+Design Within Reach    -725
+1stDibs                -875
+Joss & Main            -1024
+Urban Outfitters       -1173
+Hay                    -1320
+Crate & Barrel         -1468
+One Kings Lane         -1615
+RH                     -1762
+Ballard Designs        -1910
+Floyd                  -2059
+The Inside             -2207
+Albany Park            -2356
+Interior Define        -2505
+Jayson Home            -2654
+Overstock              -2801
+AptDeco                -2949
+Walmart                -3096
+Living Spaces          -3245
+Finnish Design Shop    -3394
+World Market           -3545
+Room & Board           -3696
+Medley                 -3846
+Rove Concepts          -3996
+Inside Weather         -4146
+Apt2B                  -4298
+Industry West          -4450
+Burke Decor            -4610
+Hem                    -4784
+Ferm Living            -4958
+Beam                   -5159
+Blu Dot                -5390
+Home Depot             -5663
+
+Forbes
+------
+West Elm            2334
+AllModern           1967
+Wayfair             1666
+CB2                 1400
+Allform             1157
+Amazon              925
+Article             697
+Rejuvenation        479
+Apt2B               263
+Burrow              45
+Joybird             -173
+IKEA                -391
+Serena & Lily       -620
+Pottery Barn        -855
+Lulu & Georgia      -1099
+Urban Outfitters    -1370
+Interior Define     -1674
+BenchMade Modern    -2049
+
+Good Housekeeping
+-----------------
+Amazon              2522
+Wayfair             2166
+Home Depot          1883
+Pottery Barn        1623
+West Elm            1395
+Article             1176
+Joybird             974
+Walmart             775
+Albany Park         575
+Crate & Barrel      377
+Anthropologie       182
+Ashley Furniture    -7
+Burrow              -195
+Overstock           -384
+Serena & Lily       -572
+La-Z-Boy            -770
+Parachute Home      -970
+AllModern           -1169
+Apt2B               -1371
+Lowe's              -1573
+Rivet               -1796
+Lulu and Georgia    -2026
+IKEA                -2289
+Target              -2580
+World Market        -2944
+
+GQ
+--
+AllModern               2902
+Burrow                  2556
+2Modern                 2290
+Finnish Design Shop     2052
+West Elm                1839
+Wayfair                 1639
+Article                 1441
+Blu Dot                 1256
+Beam                    1083
+House & Hold            911
+Sundays                 740
+Joybird                 575
+HAY                     414
+Floyd                   254
+Hem                     96
+Arhaus                  -62
+Jayson Home             -220
+TRNK                    -374
+Amazon                  -527
+IKEA                    -680
+Target                  -834
+Urban Outfitters        -987
+DWR                     -1139
+MoMA Design Store       -1291
+Etsy                    -1445
+Feather                 -1598
+Coming Soon New York    -1751
+RH                      -1905
+Room & Board            -2059
+Maiden Home             -2213
+Sabai                   -2368
+Casterly                -2525
+Goodee                  -2681
+The Citizenry           -2839
+Green River Project     -2996
+Apt2B                   -3155
+Inside Weather          -3314
+CB2                     -3471
+Lulu and Georgia        -3632
+Medley                  -3791
+Rove Concepts           -3964
+Lichen                  -4136
+Pottery Barn            -4310
+Industry West           -4507
+Crate & Barrel          -4709
+One Kings Lane          -4940
+The Inside              -5239
+
+House Beautiful
+---------------
+Wayfair                         2861
+Serena & Lily                   2514
+Saatva                          2248
+Maiden Home                     2007
+Amazon                          1793
+Homary                          1593
+Nordstrom                       1395
+Arhaus                          1204
+The Citizenry                   1031
+AllModern                       859
+West Elm                        687
+Frontgate                       518
+Burrow                          356
+Sabai                           195
+Apt2B                           35
+Outer                           -124
+Casterly                        -283
+MacKenzie-Childs                -440
+Albany Park                     -597
+Industry West                   -754
+Pottery Barn                    -909
+Schoolhouse                     -1064
+Lulu and Georgia                -1220
+Crate & Barrel                  -1376
+Goodee                          -1532
+Floyd                           -1689
+Sundays                         -1847
+Grandin Road                    -2006
+Soho Home                       -2165
+One Kings Lane                  -2325
+OKA                             -2485
+Design Within Reach             -2647
+Edloe Finch                     -2811
+Jungalow                        -2973
+Marie Burgos                    -3137
+Mitchell Gold + Bob Williams    -3306
+Williams Sonoma                 -3478
+Home Depot                      -3650
+Anthropologie                   -3822
+Rejuvenation                    -4020
+Neiman Marcus                   -4220
+1stDibs                         -4424
+Chairish                        -4662
+Target                          -4967
+
+NY Post
+-------
+Wayfair                2788
+Simpli Home            2438
+Castlery               2171
+Article                1926
+Frontgate              1708
+Design Within Reach    1509
+Burrow                 1310
+Houzz                  1111
+Anthropologie          935
+Stone & Beam           761
+World Market           590
+Kardiel                418
+Rivet                  248
+One Kings Lane         83
+Ashley Furniture       -81
+West Elm               -245
+Pottery Barn           -407
+Bloomingville          -569
+Elephant in a Box      -731
+Horchow                -893
+ABC Carpet & Home      -1056
+Lulu and Georgia       -1218
+Rifle Paper Co.        -1380
+Parachute              -1544
+Bed Bath & Beyond      -1707
+Overstock              -1872
+The Inside             -2039
+Apt2B                  -2211
+IKEA                   -2383
+Raymour & Flanigan     -2556
+The Citizenry          -2731
+Jayson Home            -2908
+Floyd Home             -3095
+Outer                  -3295
+Mackenzie-Childs       -3494
+Moe's Home             -3696
+Tom Dixon              -3915
+House of Leon          -4179
+Allswell Home          -4498
+
+The Spruce
+----------
+Burrow              2268
+Wayfair             1895
+Rove Concepts       1592
+Amazon              1318
+Poly & Bark         1071
+Article             832
+IKEA                597
+Pottery Barn        368
+Urban Outfitters    139
+Home Depot          -92
+Walmart             -327
+Anthropologie       -566
+Room & Board        -815
+Etsy                -1094
+Serena & Lily       -1401
+Apt2B               -1783
+
+
+Store to avg ELO (above 1000.0)
+-------------------------------
+Simpli Home    2438
+2Modern        2290
+Saatva         2248
+Wayfair        2075
+Castlery       1751
+Homary         1593
+West Elm       1495
+Nordstrom      1395
+Amazon         1169
+Allform        1157
+Burrow         1150
+Frontgate      1113
+Houzz          1111
+Poly & Bark    1071
+Article        1016
