@@ -15,8 +15,17 @@ class Const:
     RANKINGS_FOLDER: Path = Path(__file__).parent / "list_rankings"
     DEFAULT_ELO: float = 1000.0
     SCALE_FACTOR: float = 400.0
-    K_FACTOR: float = 32.0
+    # K_FACTOR: float = 32.0
     RR_ITERS: int = 100
+
+    @staticmethod
+    def getKFactor(rating: float) -> float:
+        if rating <= 2100.0:
+            return 32.0
+        elif rating <= 2400.0:
+            return 24.0
+        else:
+            return 16.0  # > 2400
 
 def loadLists() -> Dict[str, List[str]]:
     files: List[Path] = [
@@ -45,8 +54,11 @@ def newRatings(ratingA: float, ratingB: float, winner: Winner) -> Tuple[float, f
     scoreA: float = 1.0 if winner == Winner.A else 0.0
     scoreB: float = 1.0 if winner == Winner.B else 0.0
 
-    changeA: float = Const.K_FACTOR * (scoreA - winProbA)
-    changeB: float = Const.K_FACTOR * (scoreB - winProbB)
+    # changeA: float = Const.K_FACTOR * (scoreA - winProbA)
+    # changeB: float = Const.K_FACTOR * (scoreB - winProbB)
+
+    changeA: float = Const.getKFactor(ratingA) * (scoreA - winProbA)
+    changeB: float = Const.getKFactor(ratingB) * (scoreB - winProbB)
 
     return (ratingA + changeA, ratingB + changeB)
 
